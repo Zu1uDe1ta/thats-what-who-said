@@ -1,0 +1,5 @@
+# exclude all model data from GitHub repo
+#   -> each model folder can contain several gigabytes of data
+*
+*/
+!.gitignore
