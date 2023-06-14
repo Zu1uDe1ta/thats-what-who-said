@@ -1,9 +1,6 @@
 # BASIC INFO
 
-Original Dataset Source
-https://www.kaggle.com/datasets/nasirkhalid24/the-office-us-complete-dialoguetranscript
-
-Downloaded: 03-May-2023
+[Original Dataset Source](https://www.kaggle.com/datasets/nasirkhalid24/the-office-us-complete-dialoguetranscript)
 
 
 # COLUMN DESCRIPTIONS
