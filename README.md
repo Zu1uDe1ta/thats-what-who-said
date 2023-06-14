@@ -27,15 +27,31 @@ my-project/
 │   │   ├──  model 3
 │   │   ├──  model 4
 │   │   ├──  model 5
-│   │   └──  .gitignore
+│   │   └── .gitignore
 │   ├──  processed/
-│   │   └──  script_data_processed.csv
-│   └──  raw
-│   │   ├── pisodes
-│   │   |   ├──  README.md
-|   │   │   └──  .gitignore
-
-
+│   │   └── script_data_processed.csv
+│   └── raw
+│       ├── episodes/
+│       |   ├──  README.md
+│       |   ├──  the_office_episodes.csv
+│       │   └──  script_data_processed.csv
+│       ├── reply_dataset
+│       |   ├──  README.md
+│       |   ├──  parent_reply.csv
+│       │   └──  talking_head.csv
+│       └── transcript/
+│           ├──  README.md
+│           └──  The-Office-Lines-V4.csv
+├── img/
+│   ├── plot_01pre_1-1a.png
+│   ├── plot_01pre_1-1b.png
+│   ├── plot_01pre_1-2-1.png
+│   ├── plot_01pre_1-2-2.png
+│   ├── plot_01pre_1-2-3.png
+│   └── plot_02tra_4-1.png
+├── 01_preprocess.ipynb
+├── 02_transformer_model.ipynb
+└── README.md
 
 | TASK | 
 | ------ | 
