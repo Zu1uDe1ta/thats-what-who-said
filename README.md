@@ -34,4 +34,4 @@ Justin Minnion
 
 Chris Chavez
 
-[__Linkedin profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
+[__Linkedin profile __](https://www.linkedin.com/in/chrischavez1/)<br>
