@@ -30,8 +30,9 @@ THE QUESTION:
 
 Kelsey Fox
 
-Justin Minnion
+Justin Minnion  
+ - [LinkedIn profile](https://www.linkedin.com/in/justinminnion/)  
+ - [GitHub](https://github.com/jminnion)
 
 Chris Chavez
-
-[__Linkedin profile __](https://www.linkedin.com/in/chrischavez1/)<br>
+ - [LinkedIn profile](https://www.linkedin.com/in/chrischavez1/)<br>
