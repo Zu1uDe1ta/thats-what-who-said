@@ -30,7 +30,8 @@ THE QUESTION:
 To rerun this project 
 1. Clone this repository
 2. Set up your project directories as per the file tree (below)
-3. step through the 02_transformer_model.ipynb
+3. [Model files](https://drive.google.com/file/d/10OxPj1INj-wSOZBsxAO-d7HA20Orqs2H/view?usp=sharing) for all five models are 4.9GB, so download with caution. 
+4. step through the 02_transformer_model.ipynb
 
 ![](/img/tree.png)
 
