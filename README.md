@@ -9,7 +9,7 @@ It's important to note that the FCC requirements for speaker identification in c
 
 ## Description
 
-We conducted five experiments using two pre-trained transformer-based modles (DistilBERT and RoBERTa) to predict if the speaker of a line of dialogue from ethe television show, *The Office*, was either "Dwight" or "Not Dwight". 
+We conducted five experiments using two pre-trained transformer-based modles (DistilBERT and RoBERTa) to predict if the speaker of a line of dialogue from the television show, *The Office*, was either "Dwight" or "Not Dwight". 
 
 THE QUESTION: 
 -------------------
