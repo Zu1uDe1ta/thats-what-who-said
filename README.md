@@ -17,10 +17,6 @@ THE QUESTION:
 * "Dwight" or "Not Dwight"?
 
 
-
-![](/img/tree.png)
-
-
 | TASK | 
 | ------ | 
 | [DATA](https://github.com/Zu1uDe1ta/thats-what-who-said/tree/main/data/raw/transcript)|
