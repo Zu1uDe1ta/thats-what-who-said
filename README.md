@@ -1,25 +1,20 @@
 # DSCI 691 NLP Group Project
 ## _That's What Who Said_
 
+This repo contains the code for a collaborative project between 3- Drexel University Grad students, that sought to create a tool to identify speakers in multi-party dialogues using text-based features. 
 
-### Our motivation was to determine `who said what`
-This repo contains the code for a collaborative project between 3- Drexel University Grad students, that have explored....
+## Our motivation was to determine `who said what`
 
 It's important to note that the FCC requirements for speaker identification in closed captioning are intended to ensure accessiblity and equal participation for individuals with hearing impairmaents. By accurately identifying speakers, viewers who rely on closed captionin can better understand and follow conversations, enhancing their overall viewing experience 
 
 ## Description
-We wre interested in learninng about: 
-- Spoken dialogue in multi-season TV shows with well-developed characters
-- How characters' speaking styles aligned or differed 
 
-While searching for a dataset of dialogue for one show (HBO's Succession), we found: 
-- Transcription from closed captioning: 
-    easy to obtain 
-- Transciption with speaker labeled: 
-    not as easy to obtain
+We conducted five experiments using two pre-trained transformer-based modles (DistilBERT and RoBERTa) to predict if the speaker of a line of dialogue from ethe television show, *The Office*, was either "Dwight" or "Not Dwight". 
 
 THE QUESTION: 
 -------------------
+
+* "Dwight" or "Not Dwight"
 
 
 | TASK | 
