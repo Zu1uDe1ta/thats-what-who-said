@@ -19,39 +19,7 @@ THE QUESTION:
 
 
 ![](/img/tree.png)
-my-project/
-├── data/
-│   ├── models/
-│   │   ├──  model 1
-│   │   ├──  model 2
-│   │   ├──  model 3
-│   │   ├──  model 4
-│   │   ├──  model 5
-│   │   └── .gitignore
-│   ├──  processed/
-│   │   └── script_data_processed.csv
-│   └── raw
-│       ├── episodes/
-│       |   ├──  README.md
-│       |   ├──  the_office_episodes.csv
-│       │   └──  script_data_processed.csv
-│       ├── reply_dataset
-│       |   ├──  README.md
-│       |   ├──  parent_reply.csv
-│       │   └──  talking_head.csv
-│       └── transcript/
-│           ├──  README.md
-│           └──  The-Office-Lines-V4.csv
-├── img/
-│   ├── plot_01pre_1-1a.png
-│   ├── plot_01pre_1-1b.png
-│   ├── plot_01pre_1-2-1.png
-│   ├── plot_01pre_1-2-2.png
-│   ├── plot_01pre_1-2-3.png
-│   └── plot_02tra_4-1.png
-├── 01_preprocess.ipynb
-├── 02_transformer_model.ipynb
-└── README.md
+
 
 | TASK | 
 | ------ | 
@@ -59,6 +27,30 @@ my-project/
 | [DATA PREPROCESSING & VISUALIZATION](https://github.com/Zu1uDe1ta/thats-what-who-said/blob/main/01_preprocess.ipynb)|
 | [MACHINE LEARNING](https://github.com/Zu1uDe1ta/thats-what-who-said/blob/main/02_transformer_model.ipynb)|
 | [PROJECT REPORT](https://drive.google.com/file/d/1XaBfhcn7auxYxwwpKagbL-Q5I8kzMMXD/view?usp=sharing)|
+
+
+
+## Installation
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
 
 
 
@@ -74,3 +66,14 @@ Justin Minnion
 Chris Chavez
  - [LinkedIn profile](https://www.linkedin.com/in/chrischavez1/)<br>
  - [GitHub](https://github.com/Zu1uDe1ta)
+
+
+## License
+
+Please refer to: 
+
+[Hugging Face Privacy Policy](https://huggingface.co/privacy) for Hugging Face's consent to the terms of usage of their products. 
+
+[Kaggle Privacy Policy](https://www.kaggle.com/privacy) for Kaggle's consent to the terms of usage of their products. 
+
+---
