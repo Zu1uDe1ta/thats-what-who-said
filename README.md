@@ -29,6 +29,7 @@ THE QUESTION:
 ## Our Team 
 
 Kelsey Fox
+ - [GitHub](https://github.com/porktot)
 
 Justin Minnion  
  - [LinkedIn profile](https://www.linkedin.com/in/justinminnion/)  
