@@ -18,14 +18,24 @@ While searching for a dataset of dialogue for one show (HBO's Succession), we fo
 - Transciption with speaker labeled: 
     not as easy to obtain
 
-We wanted to answer two questions:
+THE QUESTION: 
+-------------------
 
-| Table Of Contents | 
-| ------ |
-| |
 
+| TASK | 
+| ------ | 
+| [DATA](https://github.com/Zu1uDe1ta/thats-what-who-said/tree/main/data/raw/transcript)|
+| [DATA PREPROCESSING & VISUALIZATION](https://github.com/Zu1uDe1ta/thats-what-who-said/blob/main/01_preprocess.ipynb)|
+| [MACHINE LEARNING](https://github.com/Zu1uDe1ta/thats-what-who-said/blob/main/02_transformer_model.ipynb)|
+
+
+# [__Click Here For Project Report__](https://drive.google.com/file/d/1XaBfhcn7auxYxwwpKagbL-Q5I8kzMMXD/view?usp=sharing)<br>
 
 ## Our Team 
 
+Kelsey Fox
 
-Chris Chavez, Data Engineer and Military Veteran bringing 20 yrs of experience thriving in fast paced environments and working on teams that gleaned industry best practices; molded organizational strategic planning; produced results from vast amounts of data in a timely manner.
+Justin Minnion
+
+Chris Chavez
+[__Linkedin profile <-__](https://www.linkedin.com/in/chrischavez1/)<br>
