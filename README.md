@@ -14,7 +14,7 @@ We conducted five experiments using two pre-trained transformer-based modles (Di
 THE QUESTION: 
 -------------------
 
-* "Dwight" or "Not Dwight"
+* "Dwight" or "Not Dwight"?
 
 
 | TASK | 
