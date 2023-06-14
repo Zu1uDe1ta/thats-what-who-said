@@ -17,6 +17,26 @@ THE QUESTION:
 * "Dwight" or "Not Dwight"?
 
 
+
+
+my-project/
+├── data/
+│   ├── models/
+│   │   ├──  model 1
+│   │   ├──  model 2
+│   │   ├──  model 3
+│   │   ├──  model 4
+│   │   ├──  model 5
+│   │   └──  .gitignore
+│   ├──  processed/
+│   │   └──  script_data_processed.csv
+│   └──  raw
+│   │   ├── pisodes
+│   │   |   ├──  README.md
+|   │   │   └──  .gitignore
+
+
+
 | TASK | 
 | ------ | 
 | [DATA](https://github.com/Zu1uDe1ta/thats-what-who-said/tree/main/data/raw/transcript)|
