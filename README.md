@@ -18,7 +18,7 @@ THE QUESTION:
 
 
 
-
+![](/imgtr/chris2.jpg.png)
 my-project/
 ├── data/
 │   ├── models/
