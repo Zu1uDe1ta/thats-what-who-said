@@ -36,3 +36,4 @@ Justin Minnion
 
 Chris Chavez
  - [LinkedIn profile](https://www.linkedin.com/in/chrischavez1/)<br>
+ - [GitHub](https://github.com/Zu1uDe1ta)
